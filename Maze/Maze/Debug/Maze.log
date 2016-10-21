@@ -1,0 +1,25 @@
+﻿  Utility.cpp
+  stack.cpp
+  Source.cpp
+c:\visual studio 2015\school\grade 12\maze\maze\source.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Monster.cpp
+  Maze.cpp
+  link.cpp
+  Item.cpp
+  Hero.cpp
+  Game.cpp
+c:\visual studio 2015\school\grade 12\maze\maze\game.cpp(568): warning C4553: '==': operator has no effect; did you intend '='?
+c:\visual studio 2015\school\grade 12\maze\maze\game.cpp(576): warning C4553: '==': operator has no effect; did you intend '='?
+  Character.cpp
+  Generating Code...
+c:\visual studio 2015\school\grade 12\maze\maze\game.cpp(132): warning C4715: 'Game::playAgain': not all control paths return a value
+c:\visual studio 2015\school\grade 12\maze\maze\game.cpp(230): warning C4715: 'Game::option': not all control paths return a value
+c:\visual studio 2015\school\grade 12\maze\maze\game.cpp(286): warning C4715: 'Game::getKeyPress': not all control paths return a value
+c:\visual studio 2015\school\grade 12\maze\maze\game.cpp(429): warning C4715: 'Game::checkLoopMove': not all control paths return a value
+c:\visual studio 2015\school\grade 12\maze\maze\game.cpp(508): warning C4715: 'Game::checkForMonsters': not all control paths return a value
+c:\visual studio 2015\school\grade 12\maze\maze\game.cpp(590): warning C4715: 'Game::checkMove': not all control paths return a value
+c:\visual studio 2015\school\grade 12\maze\maze\game.cpp(908): warning C4715: 'Game::tryMove': not all control paths return a value
+c:\visual studio 2015\school\grade 12\maze\maze\hero.cpp(40): warning C4715: 'Hero::checkWeaponHealth': not all control paths return a value
+c:\visual studio 2015\school\grade 12\maze\maze\stack.cpp(37): warning C4715: 'Stack::pop': not all control paths return a value
+  Maze.vcxproj -> C:\visual studio 2015\School\Grade 12\Maze\Debug\Maze.exe
+  Maze.vcxproj -> C:\visual studio 2015\School\Grade 12\Maze\Debug\Maze.pdb (Partial PDB)
